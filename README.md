@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/55795871/173839498-be52232f-d1aa-49d0-bba1-e8cab4bb23d5.gif" width=500>
 </p>
 
-<p class="customfont">Hi I'm an 18yo developper ! </p>
+<p class="customfont">Hi I'm an 19yo developper ! </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55795871/173845721-f21ba1cc-4319-47ee-90e9-ab607cd170d4.png" width=400>
@@ -12,7 +12,7 @@
 
 <ul>
     <li>Name : Omitsu</li>
-    <li>Age : 18</li>
+    <li>Age : 19</li>
     <li>Profession : Student in data science</li>
     <li>Discord Account : Omitsu.sama#4213</li>
 </ul>
